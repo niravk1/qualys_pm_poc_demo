@@ -1,0 +1,5 @@
+<ServiceRequest>
+ <filters>
+ <Criteria field="tagName" operator="EQUALS">Cloud Agent</Criteria>
+ </filters>
+</ServiceRequest> 
